@@ -1,0 +1,25 @@
+{
+  "components": [
+    {
+      "label": "reasons of your",
+      "type": "textfield",
+      "id": "Field_0s1bfhq",
+      "key": "field_0yd9go7"
+    },
+    {
+      "label": "your suggentions",
+      "type": "textfield",
+      "id": "Field_05p8eif",
+      "key": "field_1y3iqqm"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0mwg5uf",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "schemaVersion": 5
+}

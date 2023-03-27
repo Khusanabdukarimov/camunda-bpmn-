@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "label": " are you delighted our service",
+      "type": "checkbox",
+      "id": "Field_02ufulo",
+      "key": "delighted"
+    }
+  ],
+  "type": "default",
+  "id": "Form_113z489",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "schemaVersion": 5
+}
