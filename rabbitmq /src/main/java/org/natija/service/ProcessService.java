@@ -8,10 +8,9 @@ import org.springframework.stereotype.Service;
 @Service
 @AllArgsConstructor
 public class ProcessService {
-    private final String MESSAGE_NAME = "name1";
-    private final String MESSAGE_NAME_1 = "sendMessage";
     private final RuntimeService runtimeService;
     public void startThroughAPI(Warehouse warehouse) {
+        String MESSAGE_NAME = "name1";
         runtimeService.createMessageCorrelation(MESSAGE_NAME)
                 .setVariable("name", warehouse.getName())
                 .setVariable("size", warehouse.getSize())
@@ -19,6 +18,7 @@ public class ProcessService {
     }
 
     public void startMessageProcess() {
+        String MESSAGE_NAME_1 = "sendMessage";
         runtimeService
                 .createMessageCorrelation(MESSAGE_NAME_1)
                 .processInstanceBusinessKey("1")
