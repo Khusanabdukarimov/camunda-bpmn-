@@ -1,0 +1,17 @@
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/delegates/SaveDelegate.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/delegates/Take.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/Application.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/service/WarehouseService.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/service/ProductService.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/repository/ProductRep.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/mq/Producer.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/model/Model.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/delegates/StartMessage.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/controller/ProcessController.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/model/Warehouse.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/model/Product.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/service/ProcessService.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/delegates/SendMessage.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/mq/Consumer.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/repository/WarehouseRep.java
+/home/khusan/IdeaProjects/camunda-bpmn-/rabbitmq /src/main/java/org/natija/mq/Config.java

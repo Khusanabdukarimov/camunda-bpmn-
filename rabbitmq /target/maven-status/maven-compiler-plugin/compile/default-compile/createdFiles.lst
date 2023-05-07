@@ -1,0 +1,17 @@
+org/natija/Application.class
+org/natija/repository/ProductRep.class
+org/natija/delegates/SaveDelegate.class
+org/natija/delegates/SendMessage.class
+org/natija/delegates/Take.class
+org/natija/mq/Consumer.class
+org/natija/controller/ProcessController.class
+org/natija/repository/WarehouseRep.class
+org/natija/service/ProductService.class
+org/natija/mq/Producer.class
+org/natija/model/Model.class
+org/natija/model/Product.class
+org/natija/service/ProcessService.class
+org/natija/delegates/StartMessage.class
+org/natija/mq/Config.class
+org/natija/model/Warehouse.class
+org/natija/service/WarehouseService.class
